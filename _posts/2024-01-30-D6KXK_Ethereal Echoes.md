@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "D6KXK Ethereal Echoes"
 permalink: "/D6KXK"
 image: "/assets/images/D6KXK/0.jpeg"

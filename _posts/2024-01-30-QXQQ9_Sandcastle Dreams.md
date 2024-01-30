@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "QXQQ9 Sandcastle Dreams"
 permalink: "/QXQQ9"
 image: "/assets/images/QXQQ9/0.jpeg"

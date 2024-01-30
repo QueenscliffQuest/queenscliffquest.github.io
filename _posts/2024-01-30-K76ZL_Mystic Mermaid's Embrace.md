@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "K76ZL Mystic Mermaid's Embrace"
 permalink: "/K76ZL"
 image: "/assets/images/K76ZL/0.jpeg"

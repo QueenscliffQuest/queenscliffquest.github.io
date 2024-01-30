@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "HQA8J Moonlit Kelp Forest"
 permalink: "/HQA8J"
 image: "/assets/images/HQA8J/0.jpeg"

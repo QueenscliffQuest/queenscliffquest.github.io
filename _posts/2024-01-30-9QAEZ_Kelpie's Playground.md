@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "9QAEZ Kelpie's Playground"
 permalink: "/9QAEZ"
 image: "/assets/images/9QAEZ/0.jpeg"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "7PQL2 Salt-Kissed Soul"
 permalink: "/7PQL2"
 image: "/assets/images/7PQL2/0.jpeg"

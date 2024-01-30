@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "R4UQX Salty Symphony"
 permalink: "/R4UQX"
 image: "/assets/images/R4UQX/0.jpeg"

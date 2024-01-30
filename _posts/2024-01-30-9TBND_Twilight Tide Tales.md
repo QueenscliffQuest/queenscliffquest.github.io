@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "9TBND Twilight Tide Tales"
 permalink: "/9TBND"
 image: "/assets/images/9TBND/0.jpeg"

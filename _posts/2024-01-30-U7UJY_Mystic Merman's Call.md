@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "U7UJY Mystic Merman's Call"
 permalink: "/U7UJY"
 image: "/assets/images/U7UJY/0.jpeg"

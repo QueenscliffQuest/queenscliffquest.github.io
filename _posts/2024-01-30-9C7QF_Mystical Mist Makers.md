@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "9C7QF Mystical Mist Makers"
 permalink: "/9C7QF"
 image: "/assets/images/9C7QF/0.jpeg"

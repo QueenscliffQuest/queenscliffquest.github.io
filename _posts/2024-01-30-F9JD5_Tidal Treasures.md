@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "F9JD5 Tidal Treasures"
 permalink: "/F9JD5"
 image: "/assets/images/F9JD5/0.jpeg"

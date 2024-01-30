@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "LQ8FD Sunken Song"
 permalink: "/LQ8FD"
 image: "/assets/images/LQ8FD/0.jpeg"

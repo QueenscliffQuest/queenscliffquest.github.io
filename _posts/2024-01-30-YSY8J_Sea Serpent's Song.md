@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "YSY8J Sea Serpent's Song"
 permalink: "/YSY8J"
 image: "/assets/images/YSY8J/0.jpeg"

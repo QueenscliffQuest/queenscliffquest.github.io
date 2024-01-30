@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "R3BTY Eternal Tides"
 permalink: "/R3BTY"
 image: "/assets/images/R3BTY/0.jpeg"

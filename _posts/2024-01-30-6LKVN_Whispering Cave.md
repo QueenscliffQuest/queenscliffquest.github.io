@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "6LKVN Whispering Cave"
 permalink: "/6LKVN"
 image: "/assets/images/6LKVN/0.jpeg"

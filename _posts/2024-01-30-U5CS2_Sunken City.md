@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "U5CS2 Sunken City"
 permalink: "/U5CS2"
 image: "/assets/images/U5CS2/0.jpeg"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "5QDV9 Whispering Sands"
 permalink: "/5QDV9"
 image: "/assets/images/5QDV9/0.jpeg"

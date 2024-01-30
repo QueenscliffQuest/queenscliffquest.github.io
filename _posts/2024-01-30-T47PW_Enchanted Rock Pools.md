@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "T47PW Enchanted Rock Pools"
 permalink: "/T47PW"
 image: "/assets/images/T47PW/0.jpeg"

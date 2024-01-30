@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "VNHQ9 Starlit Surfers"
 permalink: "/VNHQ9"
 image: "/assets/images/VNHQ9/0.jpeg"

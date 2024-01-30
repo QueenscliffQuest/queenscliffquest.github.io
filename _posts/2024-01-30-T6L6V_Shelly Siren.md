@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "T6L6V Shelly Siren"
 permalink: "/T6L6V"
 image: "/assets/images/T6L6V/0.jpeg"

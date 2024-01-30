@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "Y4PK9 Surf's Symphony"
 permalink: "/Y4PK9"
 image: "/assets/images/Y4PK9/0.jpeg"

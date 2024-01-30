@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "Q7CJH Dawn Patrol"
 permalink: "/Q7CJH"
 image: "/assets/images/Q7CJH/0.jpeg"

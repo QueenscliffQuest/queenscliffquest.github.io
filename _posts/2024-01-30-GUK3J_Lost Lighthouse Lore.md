@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "GUK3J Lost Lighthouse Lore"
 permalink: "/GUK3J"
 image: "/assets/images/GUK3J/0.jpeg"

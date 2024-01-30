@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "Z8E3T Moonlight Sonata"
 permalink: "/Z8E3T"
 image: "/assets/images/Z8E3T/0.jpeg"

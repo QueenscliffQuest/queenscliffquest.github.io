@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: card2
 title: "K87KF Queenscliff Guardian"
 permalink: "/K87KF"
 image: "/assets/images/K87KF/0.jpeg"

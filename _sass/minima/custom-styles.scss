@@ -1,2 +1,64 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+body {
+    color: #ffffff;
+    background-color:#202429;
+}
+
+h1 {
+  color: #83bff7;
+}
+
+figcaption {
+    font-size: 20px; /* Set the font size to 16 pixels */
+    margin-bottom: 10px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+
+.secret-code {
+  font-family: 'Cinzel Decorative', sans-serif;
+  font-weight: bold; /* Specify the font weight */
+  font-size: 50px; /* Specify the font size */
+  text-transform: uppercase;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Consolas&display=swap');
+
+.secret-code-field {
+  font-family: 'Consolas', monospace; /* Specify the font family */
+  font-weight: bold; /* Specify the font weight */
+  font-size: 80px; /* Specify the font size */
+  /* Add any other desired font properties here */
+  text-transform: uppercase;
+  width: 400px;
+}
+
+
+form {
+  background-image: url('/assets/images/queenscliffquest-rock-code.jpg'); /* Set the background image */
+  background-size: cover; /* Cover the entire area of the form */
+  padding: 10px; /* Add padding for spacing */
+  height: 700px; /* Set the height of the form */
+  margin-bottom: 100px; /* Add margin between form elements */
+}
+
+/* Style the submit button */
+input[type="submit"] {
+  display: block; /* Make the button block-level */
+  width: 100%; /* Set the button width to match the form */
+  padding: 10px; /* Add padding for spacing */
+  font-size: 16px; /* Set the font size of the button text */
+  background-color: darkgray; /* Set the background color of the button */
+  color: white; /* Set the text color of the button */
+  border: none; /* Remove border */
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+/* Style form elements */
+input[type="text"] {
+  display: block; /* Make form elements block-level */
+  margin-bottom: 10px; /* Add margin between form elements */
+}
+

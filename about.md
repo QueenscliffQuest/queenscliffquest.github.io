@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+In the heart of Queenscliffs rugged terrain, where the whispers of ancient winds dance among the shadows, lies a secret veiled in stone. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Seekers of mystery, heed this cryptic call: amidst the silent guardians of nature, enigmatic rocks lay scattered, each bearing a code to unlock a realm unseen. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Dare to decipher the language of the earth, and you shall be led to a virtual sanctum, where whispers of the past intertwine with whispers of the future. 
 
+Let the stones guide your journey, for within their silent embrace, lies the key to a secret awaiting those who dare to unravel its enigmatic depths.
 
-[jekyll-organization]: https://github.com/jekyll
+<img src="/assets/images/queenscliffquest-rock.jpg" alt="A magical enigmatic rock with a secret code chiselled into it, laying in a tunnel next to a sea cliff by the ocean" title="A magical enigmatic rock with a secret code chiselled into it, laying in a tunnel next to a sea cliff by the ocean">

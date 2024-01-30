@@ -6,6 +6,32 @@ layout: base
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
+<center>
+  <form id="codeForm">
+      <label for="codeInput" class="secret-code">Enter Your Secret Code</label>
+
+      <input type="text" id="codeInput" name="code" class="secret-code-field" maxlength="5">
+
+      <button type="submit">Submit</button>
+
+  </form>
+</center>
+  <!-- <img src="/assets/images/queenscliffquest-rock-code.jpg" alt="A magical enigmatic rock with a word chiselled into it, laying in a tunnel next to a sea cliff by the ocean." title="A magical enigmatic rock with a word chiselled into it, laying in a tunnel next to a sea cliff by the ocean."> -->
+
+  <script>
+      document.getElementById("codeForm").addEventListener("submit", function(event) {
+          event.preventDefault(); // Prevent default form submission
+
+          var code = document.getElementById("codeInput").value.trim().toUpperCase(); // Convert code to uppercase
+          if (code !== "") {
+              window.location.href = "/" + code; // Redirect to URL with the code
+          } else {
+              alert("Please enter a code.");
+          }
+      });
+  </script>
+
+
 
   {{ content }}
 

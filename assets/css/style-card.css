@@ -392,7 +392,7 @@ p {
           animation-delay: 0.75s;
 }
 
-p {
+/* p {
   font-weight: 400;
   font-size: 18px;
   padding: 1em;
@@ -400,7 +400,7 @@ p {
   margin-top: 0;
   -webkit-animation: rubberBand 1.5s linear 3s 1;
           animation: rubberBand 1.5s linear 3s 1;
-}
+} */
 
 .promo {
   margin-top: 50px;
